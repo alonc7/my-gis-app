@@ -1,0 +1,9 @@
+.mapDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100%;
+  background-color: dimgray;
+  z-index: 1000; /* Ensure it's on top */
+}
